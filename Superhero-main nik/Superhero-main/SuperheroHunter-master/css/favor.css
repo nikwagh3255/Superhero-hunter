@@ -1,0 +1,44 @@
+
+
+body {
+background-color: yellow;
+   
+}
+
+
+h1 {
+    text-align: center;
+    color: Black;
+    font-size: 2.5rem;
+}
+
+ul {
+    list-style-type: disc;
+    font-size: 1.5rem;
+    color: rgb(148, 115, 54);
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+span {
+    display: flex;
+    margin-top: -1%;
+}
+
+button {
+    background-color: rgb(117, 105, 105);
+    border: none;
+    margin-left: 30%;
+    
+}
+
+a {
+    color:   rgb(148, 115, 54);
+    padding-left: 10px;
+    text-decoration: none;
+}
+  
+
+a:hover {
+    color: wheat;
+}

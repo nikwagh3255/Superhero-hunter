@@ -1,0 +1,65 @@
+
+body {
+    margin: 0px;
+    background-image: url("https://cdn.wallpapersafari.com/20/1/JfrCTD.png"); 
+}
+
+  
+#heading {
+  font-size: 2.4rem;
+  color: yellow;
+  text-align: right;
+}
+
+#search-bar {
+    height: 40px;
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 65%;
+    padding-right: 1%;
+    color: Red;
+    font-size: 2rem;
+    border-radius: 1%;
+    border: none;
+    background-color: whitesmoke;
+}
+
+#suggestions {
+    height: auto;
+    width: 29%;
+    padding-left: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 34%;
+    background-color: rgb(235, 235, 208);
+}
+
+
+#suggestions a{
+    text-decoration: none;
+}
+
+
+button {
+    position: absolute;
+    margin-top: -3%;
+    left: 40%;
+    border: none;
+    background: none;
+    color: red;
+}
+
+button:hover {
+    background-color: white;
+}
+
+
+a {
+    padding-left: 10px;
+    text-decoration: none;
+    color: #0bf1bc;
+}
+  
+
+a:hover {
+    color: Black;
+}
